@@ -1,0 +1,17 @@
+Functionalitati Stackoverflow:
+
+-sistem de autentificare si deconectare;
+
+-sistem de inregistrare, de creare cont;
+
+-meniu;
+
+-search bar;
+
+-2 butoane mai jos de meniu, unul destinat developerilor si unul pentru firme;
+
+-joburi postate;
+
+-tag uri de unde poti filtra intrebarile si a gasi ceva mai specific;
+
+-buton de adaugare intrebare;
